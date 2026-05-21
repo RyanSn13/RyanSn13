@@ -44,6 +44,7 @@ Abaixo estão algum projetos que desenvolvi ao longo dos meus estudo!
 
 ---
 ## 🎯 Objetivos
+<br>
  - Conseguir minha primeira oportunidade na área de TI
 <br>
  - Evoluir como desenvolvedor
@@ -55,4 +56,4 @@ Abaixo estão algum projetos que desenvolvi ao longo dos meus estudo!
  ---
  <br>
 
-                  # 👋 Obrigado por visitarem minha conta GitHub!
+                                                    👋 Obrigado por visitarem minha conta GitHub!
