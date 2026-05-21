@@ -17,6 +17,10 @@ Olá meu nome é Ryan Samuel, tenho 17 anos e sou natural da Bahia, conclui meu 
 
   
 <img align= "left" width= 40px style= "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
+<img align= "left" width= 40px style= "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+<img align= "left" width= 40px style= "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
           
 </p> 
