@@ -25,13 +25,13 @@ Abaixo estão algum projetos que desenvolvi ao longo dos meus estudo!
 
 ---
 ## 🎯 Objetivos
- - Conseguir minha primeira oportunidade na área de TI
+- Conseguir minha primeira oportunidade na área de TI
 <br>
- - Evoluir como desenvolvedor
+- Evoluir como desenvolvedor
 <br>
- - Aprender novas tecnologias
+- Aprender novas tecnologias
 <br>
- - Criar projetos cada vez melhores
+- Criar projetos cada vez melhores
 
  ---
  <br>
