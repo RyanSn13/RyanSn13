@@ -7,14 +7,6 @@ Olá meu nome é Ryan Samuel, tenho 17 anos e sou natural da Bahia, conclui meu 
 ## 🤖 Linguagens e Tecnologias
 
 ---
-## Estatísticas
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryansn13&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansn13&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 ## 📚 Projetos
 
 Abaixo estão algum projetos que desenvolvi ao longo dos meus estudo!
