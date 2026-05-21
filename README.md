@@ -56,4 +56,4 @@ Abaixo estão algum projetos que desenvolvi ao longo dos meus estudo!
  ---
  <br>
 
-                                                    👋 Obrigado por visitarem minha conta GitHub!
+                                                  👋 Obrigado por visitarem minha conta GitHub!
