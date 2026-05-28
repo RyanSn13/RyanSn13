@@ -4,6 +4,10 @@
 
 Olá meu nome é Ryan Samuel, tenho 17 anos e sou natural da Bahia, conclui meu ensino médio no CEEPTIC, com curso técnico em Informática. Atualmente estou na área de tecnologia cursando Engenharia de Software na Universidade Católica do Salvador - Ucsal estou no 1º semestre da faculdade, atualmente estou estudando Java, SpringBoot e C# | .NET, com objetivo em me tornar Dev. Junior. 
 
+Hello, my name is Ryan Samuel. I am 17 years old and I'm from Bahia, Brazil. I graduated from CEEPTIC with a technical degree in Information Technology.
+
+Currently, I am pursuing a Bachelor's degree in Software Engineering at the Catholic University of Salvador (UCSAL), currently in my first semester. I am focusing my studies on Java, Spring Boot, C#, and .NET, with the goal of becoming a Junior Developer
+
 ## 🤖 Linguagens e Tecnologias
 <p align = "left">
 
